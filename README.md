@@ -10,7 +10,6 @@ Welcome to my coding world! I specialize in harnessing the power of data through
 - 🤝 Open for collaborations in **data analysis, backend development,** and **computational projects**.
 - 🧩 Challenges excite me; solving complex data puzzles and algorithmic challenges are my daily fuel!
 - 🎙️ I love discussing **data structures, new tech stacks,** and **programming paradigms**. Ask me anything in this domain!
-- 📬 How to reach me: [Let's connect](mailto:your-email@example.com) 💌
 - 😊 Pronouns: He/Him
 - ⚡️ Fun fact: Did you know I built my first predictive model while on a trekking expedition?
 
