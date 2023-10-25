@@ -23,17 +23,6 @@ Welcome to my coding world! I specialize in harnessing the power of data through
 - **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure
 - **Miscellaneous**: Git, Agile/Scrum, RESTful APIs, Microservices Architecture
 
-## 📌 Pinned Repositories
-
-➡️ [...]
-➡️ [...]
-(*Include 2-3 of your best repositories here, providing a brief description of each*)
-
-## 🔍 Current Endeavors
-
-- **Project X**: Working on a predictive analysis tool that forecasts market trends using Machine Learning.
-- **Data-Driven Blog**: Contributing to a collaborative blog on innovative data solutions and analytics paradigms.
-- **Open Source Contribution**: Actively contributing to a renowned Java Data Processing Project.
 
 ## 📚 Lessons & Reflections
 
