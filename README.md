@@ -16,10 +16,10 @@ Welcome to my coding world! I specialize in harnessing the power of data through
 ## 💼 Technical Stack
 
 - **Programming Languages**: Expert in Java & Python
-- **Data Management**: SQL, MongoDB, Hadoop, Spark
+- **Data Management**: SQL, MongoDB, Spark
 - **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib
-- **Web Development**: HTML, CSS, JavaScript, Node.js
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure
+- **Web Development**: HTML, CSS, JavaScript
+- **DevOps & Cloud**: AWS, Azure
 - **Miscellaneous**: Git, Agile/Scrum, RESTful APIs, Microservices Architecture
 
 
