@@ -34,4 +34,4 @@ The exploration of AI introduced me to ethical considerations in data, pushing m
 Feel free to reach out and discuss Java, Python, data, or collaboration opportunities. Here are some platforms you can find me on:
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/ashvin-alex/)]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/ashvin-alex/)]]
