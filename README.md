@@ -17,15 +17,11 @@ Welcome to my coding world! I specialize in harnessing the power of data through
 
 - **Programming Languages**:  Java & Python
 - **Data Management**: SQL, MongoDB, Spark
-- **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib
+- **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Tableau
 - **Web Development**: HTML, CSS, JavaScript
 - **DevOps & Cloud**: AWS, Azure
 - **Miscellaneous**: Git, Agile/Scrum, RESTful APIs, Microservices Architecture
 
-
-## 📚 Lessons & Reflections
-
-While journeying through data with Java and Python, each project has been a learning expedition. Building scalable data pipelines challenged me to optimize code beyond conventional standards. I overcame hurdles in real-time data processing by embracing distributed computing, learning from community insights, and persistently debugging my way to seamless functionality.
 
 The exploration of AI introduced me to ethical considerations in data, pushing me to advocate for transparency and inclusivity in tech solutions. These experiences have taught me not just technical skills, but also the importance of community, collaboration, and ethical responsibility in technology.
 
@@ -33,4 +29,4 @@ The exploration of AI introduced me to ethical considerations in data, pushing m
 
 Feel free to reach out and discuss Java, Python, data, or collaboration opportunities. Here are some platforms you can find me on:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvin-alex/)
-
+[[![Tableau]( https://public.tableau.com/app/profile/ashvin.alex/vizzes)]
